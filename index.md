@@ -1,4 +1,7 @@
 ![N予備校ロゴ](nyobi_logo.png)
+
+<iframe src="https://www.openprocessing.org/sketch/945204/embed/" width="400" height="300"></iframe>
+
 # About
 
 HTML/CSSは基本的な構文は理解し、一般的な動作などは自分で考えプログラミングすることができます。  
